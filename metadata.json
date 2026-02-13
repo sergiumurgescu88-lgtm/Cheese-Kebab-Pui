@@ -1,0 +1,8 @@
+{
+  "name": "Helios",
+  "description": "The World's Most Advanced Solar Park AI Agent. Features Digital Asset, Predictive Maintenance, AI Trading, and Agrivoltaics Optimization.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
